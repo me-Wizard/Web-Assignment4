@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Backend
 
 ## Setup
@@ -28,3 +29,7 @@
 - `git checkout -b feature/education-crud`
 - `git checkout -b feature/frontend-integration`
 - Descriptive commits → Push → PRs → Merge to `main`.
+=======
+# Web-Assignment4
+Backend portfolio
+>>>>>>> f20633632d6e7a940b6a4649b9a4f89b19c0d21c
